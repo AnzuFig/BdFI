@@ -1,0 +1,70 @@
+addShow m0 2021 Duna Failed Movie - A tale of failure
+
+premiere M0
+
+listShows 7
+
+listShows 0
+
+listbestshows
+
+infoShow m0
+
+addShow m2 1984 Dune (1984)
+
+addShow other 2020 Dune Failed Movie - A tale of failure
+
+rateShow M0 0
+
+rateShow M2 0
+
+rateShow other 0
+
+listShows 3
+
+listShows 0
+
+listbestshows
+
+removeShow m0
+
+removeShow other
+
+removeShow m2
+
+premiere m0
+
+premiere Other
+
+premiere m2
+
+rateShow M2 10
+
+rateShow M2 -10
+
+rateShow M2 8
+
+listbestshows
+
+rateShow M2 1
+
+rateShow M2 7
+
+rateShow M2 9
+
+listbestshows
+
+rateShow M0 10
+
+rateShow M0 7
+
+listbestshows
+
+listShows 6
+
+listShows 5
+
+listShows 0
+
+quit
+

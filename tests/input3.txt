@@ -1,0 +1,68 @@
+infoPerson P234
+
+infoPerson P4
+
+infoPerson P6
+
+infoShow m1
+
+tagShow m1 Action
+
+tagShow m1 adventure
+
+tagShow m1 Drama
+
+infoShow m1
+
+tagShow m5 Sci-fi
+
+tagShow m5 Action
+
+tagShow m5 Adventure
+
+infoShow m5
+
+infoShow m7
+
+listshowsPerson p234
+
+listSHOWSperson     p4
+
+listSHOWSperson p6
+
+listparticipations m1
+
+listparticipations m5
+
+listparticipations m7
+
+listtaggedShows adventure_
+
+listtaggedShows adventure
+
+rateShow m1 -1
+
+rateshow m1 1
+
+removeShow m1
+
+removeShow m5
+
+listtaggedShows adventure
+
+listSHOWSperson p4
+
+listbestshows
+
+listShows 8
+
+removeShow m7
+
+listbestshows
+
+listtaggedShows Adventure
+
+listShows 8
+
+quit
+

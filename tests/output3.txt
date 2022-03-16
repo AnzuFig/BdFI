@@ -1,0 +1,78 @@
+P234 Alicia VIKANDER 1989 alicia@warner.com 0034212990545 femALE
+
+p4 Rebecca Ferguson 1983 rebecca@acme.corp 24213 female
+
+p6 Denis Villeneuve 1967 denis@acme.corp 3454353 not-provided
+
+m1 Dune (2021) 2021 0
+
+Tag added.
+
+Tag added.
+
+Tag added.
+
+m1 Dune (2021) 2021 0
+Action
+adventure
+Drama
+
+Tag added.
+
+Tag added.
+
+Tag added.
+
+m5 Reminiscence 2021 0
+Sci-fi
+Action
+Adventure
+
+m7 Cowboy Bebop (2021) 2021 0
+
+idPerson has no shows.
+
+m1 Dune (2021) 2021 0
+m5 Reminiscence 2021 0
+
+m1 Dune (2021) 2021 0
+
+p4 Rebecca Ferguson 1983 rebecca@acme.corp 24213 female Actress supporting role
+p6 Denis Villeneuve 1967 denis@acme.corp 3454353 not-provided Director and more
+p6 Denis Villeneuve 1967 denis@acme.corp 3454353 not-provided Writer also
+
+p4 Rebecca Ferguson 1983 rebecca@acme.corp 24213 female main actress
+
+idShow has no participations.
+
+No shows with tag.
+
+m1 Dune (2021) 2021 0
+m5 Reminiscence 2021 0
+
+Invalid Rating.
+
+idShow is in production.
+
+Show removed.
+
+Show removed.
+
+No tagged productions.
+
+idPerson has no shows.
+
+No finished productions.
+
+No finished productions.
+
+Show removed.
+
+No shows.
+
+No shows.
+
+No shows.
+
+Serializing and quitting...
+
